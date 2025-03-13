@@ -32,8 +32,8 @@ RiskWatch Pro is an AI-powered Financial Risk Monitoring System that provides re
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/riskwatch-pro.git
-cd riskwatch-pro
+                --git clone https://github.com/Marzooklathief/finance-monitoring-system-using-RAG.git--
+                  --cd finance-monitoring-system-using-RAG--
 
 2️⃣ Set Up a Virtual Environment
 
